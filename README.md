@@ -1,16 +1,13 @@
-### Hi there 👋
+# ¡Hola, soy Ramon! 👋
 
-<!--
-**Rmaon/Rmaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Banner Personal](https://i.imgur.com/Iz8L0TJ.png)](https://github.com/Rmaon)
 
-Here are some ideas to get you started:
+Soy el puto amo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Cómo contactarme
+
+Puedes encontrarme en las siguientes redes sociales:
+
+- [Twitter](https://twitter.com/GooGGLEbeats)
+- [LinkedIn](https://www.linkedin.com/in/ram%C3%B3n-caminero-arroyo-75a313254/)
+- [Instagram](https://www.instagram.com/rmn666_)
