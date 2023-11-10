@@ -8,6 +8,7 @@ Soy el puto amo.
 
 Puedes encontrarme en las siguientes redes sociales:
 
-[![twiiter](https://imgur.com/1N1ljX2.jpg)](https://twitter.com/GooGGLEbeats) [![linkedin](https://imgur.com/CjwACgZ.jpg)](https://www.linkedin.com/in/ram%C3%B3n-caminero-arroyo-75a313254/)
+[![twiiter](https://imgur.com/1N1ljX2.jpg)](https://twitter.com/GooGGLEbeats) 
+[![linkedin](https://imgur.com/CjwACgZ.jpg)](https://www.linkedin.com/in/ram%C3%B3n-caminero-arroyo-75a313254/)
 
 - [Instagram](https://www.instagram.com/rmn666_)
