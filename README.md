@@ -8,4 +8,4 @@ Soy el puto amo.
 
 Puedes encontrarme en las siguientes redes sociales:
 
-[![instagram](https://i.imgur.com/IZdNRGP.jpg)](https://www.instagram.com/rmn666_) [![twitch](https://i.imgur.com/l93nK0J.jpg)](https://www.twitch.tv/googglebeats)[![twiiter](https://imgur.com/1N1ljX2.jpg)](https://twitter.com/GooGGLEbeats)[![linkedin](https://imgur.com/CjwACgZ.jpg)](https://www.linkedin.com/in/ram%C3%B3n-caminero-arroyo-75a313254/)
+[![instagram](https://i.imgur.com/IZdNRGP.jpg)](https://www.instagram.com/rmn666_) [![twitch](https://i.imgur.com/l93nK0J.jpg)](https://www.twitch.tv/googglebeats) [linkedin](https://imgur.com/Otv74hC.jpg)](https://www.linkedin.com/in/ram%C3%B3n-caminero-arroyo-75a313254/) [![twiiter](https://imgur.com/8jDSE9q.jpg)](https://twitter.com/GooGGLEbeats)[!
