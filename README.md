@@ -1,6 +1,6 @@
 # ¡Hola, soy Ramon! 👋
 
-[![Banner Personal](https://i.imgur.com/Iz8L0TJ.png)](https://github.com/Rmaon)
+[![Banner Personal](https://imgur.com/GndKsQP.jpg)](https://github.com/Rmaon)
 
 Soy el puto amo.
 
