@@ -2,8 +2,6 @@
 
 [![Banner Personal](https://imgur.com/GndKsQP.jpg)](https://github.com/Rmaon)
 
-Soy el puto amo.
-
 ## 📫 Cómo contactarme
 
 Puedes encontrarme en las siguientes redes sociales:
