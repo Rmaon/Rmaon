@@ -18,10 +18,7 @@ Puedes encontrarme en las siguientes redes sociales:
   <a href="https://www.linkedin.com/in/ram%C3%B3n-caminero-arroyo-75a313254">
     <img src="https://imgur.com/bXSUkyu.jpg" alt="linkedin">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/GooGGLEbeats">
-    <img src="https://imgur.com/K09rxI5.jpg" alt="twitter">
-  </a>
+  
 </p>
 
 
