@@ -24,5 +24,5 @@ Puedes encontrarme en las siguientes redes sociales:
 ## 📈 Estadísticas
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rmaon&show_icons=true&hide_border=true&theme=tokyonight&icon_color=63c5ea&text_color=6decb9&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaon&hide_border=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaon&hide_border=true&theme=tokyonight&ring=63c5ea&fire=6decb9&currStreakLabel=63c5ea&sideLabels=63c5ea&dates=6decb9" />
 </p>
