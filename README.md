@@ -21,6 +21,8 @@ Puedes encontrarme en las siguientes redes sociales:
   
 </p>
 
-
-
-
+## 📈 Estadísticas
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rmaon&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaon&hide_border=true&theme=radical" />
+</p>
