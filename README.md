@@ -7,19 +7,24 @@
 Puedes encontrarme en las siguientes redes sociales:
 
 <p align="center">
-  <a href="https://www.instagram.com/rmn666_">
-    <img src="https://imgur.com/KHp98A3.jpg" alt="instagram">
+  <a href="https://www.instagram.com/rmn666_" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" 
+         alt="instagram" 
+         width="40" 
+         height="40"
+         style="vertical-align: middle;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/googglebeats">
-    <img src="https://imgur.com/UNfSurd.jpg" alt="twitch">
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ram%C3%B3n-caminero-arroyo-75a313254">
-    <img src="https://imgur.com/bXSUkyu.jpg" alt="linkedin">
+  <a href="https://www.linkedin.com/in/ram%C3%B3n-caminero-arroyo-75a313254" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+         alt="linkedin" 
+         width="40" 
+         height="40"
+         style="vertical-align: middle;">
   </a>
-  
 </p>
+
 
 ## 📈 Estadísticas
 <p align="center">
