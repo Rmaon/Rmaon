@@ -30,13 +30,4 @@ const ramon = {
   mindset: "Build, learn, improve, repeat"
 };
 ```
-# 📊 GitHub Stats: 
-<br clear="both">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Rmaon/Rmaon/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/Rmaon/Rmaon/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Rmaon/Rmaon/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=Rmaon&theme=holi&no-frame=true&no-bg=false&margin-w=4) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> "
